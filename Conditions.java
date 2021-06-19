@@ -20,7 +20,7 @@ public class Conditions {
         //Program to implement Switch case Statement.
 		
 		int choice,a,b;
-		System.out.println("Mini Calculator:\n 1.Addition\n 2.Subraction\n 3.Multiplication\n 4.Division\n Enter Your Choice:");
+		System.out.println("\nMini Calculator:\n 1.Addition\n 2.Subraction\n 3.Multiplication\n 4.Division\n Enter Your Choice:");
 		choice = s.nextInt();
 		System.out.println("Enter 2 numbers:");
 		a=s.nextInt();
